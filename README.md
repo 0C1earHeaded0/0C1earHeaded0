@@ -6,10 +6,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
-</p>
-
 <h1 align="center">
   ⚙️ Some technologies and tools I have used ⚙️
 </h1>
@@ -45,6 +41,10 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I like backend development and try to develop for my soul. Especially I use <b>NodeJS</b> and it's libraries (<b>Express, Axios, Sequelize, ...</b>) for it.</p>
 
 <h3>That's all for now. Thank you for attention 🖐️</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A3FFF6,100:DBFF38&stroke=000000&section=footer">
