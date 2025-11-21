@@ -28,6 +28,8 @@
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/225f4c3d-4029-4945-af61-e60fb0f999cb" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4aeb59e6-0148-452b-8345-9846047580d7" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6105ca77-a761-4ab6-a4e9-8d3e0895515b" />
+  <img width="60" height="60" alt="nginx_logo_icon_169915" src="https://github.com/user-attachments/assets/4d93563e-a70c-4cbe-9f28-17f96a6c0b0f" />
+
 </p>
 
 <h1 align="center">
@@ -40,7 +42,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;When I was second-year student I used to like frontend development. That's why I know <b>HTML, CSS (Basic and Tailwind)</b> and <b>JS</b> above average.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I like backend development and try to develop for my soul. Especially I use <b>NodeJS</b> and it's libraries (<b>Express, Axios, Sequelize, ...</b>) for it.</p>
 
-<h3>That's all for now. Thank you for attention 🖐️</h3>
+<h3>That is all. Thank's for your attention 🖐️</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
